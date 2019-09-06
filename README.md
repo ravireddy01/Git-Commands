@@ -1,5 +1,5 @@
-Git Commands by Ravi
-====================
+Git Commands documented by Ravi
+===============================
 
 ## Translated Versions
 - [Versão em português](READMEpt.md)
